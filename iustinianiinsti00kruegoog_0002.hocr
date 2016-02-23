@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iustinianiinsti00kruegoog_0002.png"; bbox 0 0 3309 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1664 1924 2176 1939">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1664 1924 2176 1939">
+     <span class='ocr_line' id='line_1_1' title="bbox 1664 1924 2176 1939; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1664 1924 2176 1939; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 659 3052 2008 3292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 659 3052 2008 3292">
+     <span class='ocr_line' id='line_1_2' title="bbox 659 3052 2008 3148; baseline 0.013 -17"><span class='ocrx_word' id='word_1_2' title='bbox 659 3068 663 3072; x_wconf 83' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_3' title='bbox 803 3052 1291 3136; x_wconf 68' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_4' title='bbox 1335 3060 1559 3140; x_wconf 70' lang='lat' dir='ltr'><strong>LAW</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1603 3068 2008 3148; x_wconf 65' lang='lat' dir='ltr'><strong>SCHQOL</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1183 3212 1627 3292; baseline 0.014 -5"><span class='ocrx_word' id='word_1_6' title='bbox 1183 3212 1627 3292; x_wconf 66' lang='lat' dir='ltr'>LIBRAE?</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 927 3921 1928 3942">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 927 3921 1928 3942">
+     <span class='ocr_line' id='line_1_4' title="bbox 927 3921 1928 3942; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 927 3921 1928 3942; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 3300 4916">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 3300 4916">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 3300 4916; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 3300 4916; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

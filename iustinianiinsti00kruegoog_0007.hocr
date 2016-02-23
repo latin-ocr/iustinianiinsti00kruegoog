@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iustinianiinsti00kruegoog_0007.png"; bbox 0 0 3309 4917; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 114 276 1521 535">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 114 276 1521 535">
+     <span class='ocr_line' id='line_1_1' title="bbox 230 276 1521 535; baseline -0.026 -128"><span class='ocrx_word' id='word_1_1' title='bbox 230 297 922 535; x_wconf 42' lang='lat' dir='ltr'>euffaevyfflsmfiffu·</span> <span class='ocrx_word' id='word_1_2' title='bbox 962 281 1033 387; x_wconf 67' lang='grc' dir='ltr'>ίᾸι</span> <span class='ocrx_word' id='word_1_3' title='bbox 1054 276 1421 406; x_wconf 43' lang='grc' dir='ltr'>μῗάῗίιιιΐμμω</span> <span class='ocrx_word' id='word_1_4' title='bbox 1520 329 1521 334; x_wconf 66' lang='grc'>’</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 114 442 268 496; baseline -0.026 3"><span class='ocrx_word' id='word_1_5' title='bbox 114 454 116 463; x_wconf 71' lang='grc'>’</span> <span class='ocrx_word' id='word_1_6' title='bbox 215 442 268 496; x_wconf 65' lang='lat'><strong><em>5</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 521 779 1171 926">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 521 779 1171 926">
+     <span class='ocr_line' id='line_1_3' title="bbox 521 779 1171 926; baseline -0.002 -1"><span class='ocrx_word' id='word_1_7' title='bbox 521 779 1171 926; x_wconf 45' lang='lat' dir='ltr'>*IUSTINIANW</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 548 1169 1557 1334">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 548 1169 1557 1334">
+     <span class='ocr_line' id='line_1_4' title="bbox 548 1169 1557 1334; baseline 0.001 -6"><span class='ocrx_word' id='word_1_8' title='bbox 548 1169 1361 1334; x_wconf 78' lang='lat' dir='ltr'>TITUTIONES</span> <span class='ocrx_word' id='word_1_9' title='bbox 1556 1237 1557 1264; x_wconf 24' lang='grc' dir='ltr'>ψ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 685 2783 982 2842">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 685 2783 982 2842">
+     <span class='ocr_line' id='line_1_5' title="bbox 685 2783 982 2842; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 685 2783 814 2842; x_wconf 84' lang='lat' dir='ltr'>EDITIO</span> <span class='ocrx_word' id='word_1_11' title='bbox 838 2783 982 2842; x_wconf 82' lang='lat' dir='ltr'>TERTIA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1660 4917">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1660 4917">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1660 4917; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1660 4917; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
